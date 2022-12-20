@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/task-2/bin/Debug/net6.0/task-2
+/Users/user/Documents/GitHub/task-2/bin/Debug/net6.0/task-2.deps.json
+/Users/user/Documents/GitHub/task-2/bin/Debug/net6.0/task-2.runtimeconfig.json
+/Users/user/Documents/GitHub/task-2/bin/Debug/net6.0/task-2.dll
+/Users/user/Documents/GitHub/task-2/bin/Debug/net6.0/task-2.pdb
+/Users/user/Documents/GitHub/task-2/obj/Debug/net6.0/task-2.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/task-2/obj/Debug/net6.0/task-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/task-2/obj/Debug/net6.0/task-2.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/task-2/obj/Debug/net6.0/task-2.AssemblyInfo.cs
+/Users/user/Documents/GitHub/task-2/obj/Debug/net6.0/task-2.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/task-2/obj/Debug/net6.0/task-2.dll
+/Users/user/Documents/GitHub/task-2/obj/Debug/net6.0/refint/task-2.dll
+/Users/user/Documents/GitHub/task-2/obj/Debug/net6.0/task-2.pdb
+/Users/user/Documents/GitHub/task-2/obj/Debug/net6.0/task-2.genruntimeconfig.cache
+/Users/user/Documents/GitHub/task-2/obj/Debug/net6.0/ref/task-2.dll
